@@ -1,4 +1,4 @@
-<template><!--这是首页的轮播图-->
+<template><!--这是首页的lunbotu-->
   <div class="block">
     <el-carousel height="280px">
       <el-carousel-item v-for="item in items" :key="item">
